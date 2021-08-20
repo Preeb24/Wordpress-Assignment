@@ -1,0 +1,24 @@
+﻿Learn Wordpress | AUG 2021
+Assignment 1 | 19th August 2021
+________________
+
+
+Questions : 
+
+
+1. How is Wordpress licensed?
+     General Public License GNU
+
+ 2. How can you add an image to your blog?
+    Media -> Add new 
+
+
+ 3. Your blog's timezone can be set via which dashboard section?
+    Settings > General
+    
+ 4. What is the default role for the user created during the WordPress process?
+    Administrator
+  
+
+ 5. WordPress is written in which language?
+     PHP
